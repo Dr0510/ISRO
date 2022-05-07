@@ -1,0 +1,103 @@
+body {
+    background-color: #FEFBE7;
+}
+.heading {
+    text-align: center ; 
+    position: relative;
+    top: 20px;
+    left: 90px;
+    text-decoration: solid 2px underline;
+    
+}
+.logo {
+    position: relative;
+    bottom: 80px;
+}
+.name0fsatellite {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    margin-left: 10px;
+    position: relative;
+    bottom: 8.5rem;
+}
+.startimg {
+    position: relative;
+    bottom: 8rem;
+}
+.sateimg {
+    position: relative;
+    bottom: 9rem;
+}
+.firstrockimg {
+    position: relative;
+    bottom: 9rem;
+}
+.chirmanimg {
+    position: relative;
+    bottom: 9.6rem;
+}
+.imaghis {
+    position: relative;
+    bottom: 9.6rem;
+}
+.subheading1 {
+    position: relative;
+    bottom: 6rem;
+}
+.subheading2 {
+    position: relative;
+    bottom: 7.5rem;
+}
+.subheading3 {
+    position: relative;
+    bottom: 8.5rem;
+}
+.subheading4 {
+    position: relative;
+    bottom: 8.5rem;
+}
+.subheading5 {
+    position: relative;
+    bottom: 8.5rem;
+}
+.p1 {
+    position: relative;
+    bottom: 7rem;
+    margin-left: 1rem;
+    text-align: justify;
+}
+.p2 {
+    position: relative;
+    bottom: 8.5rem;
+    margin-left: 1rem;
+    text-align: justify;
+}
+.p3 {
+    position: relative;
+    bottom: 9.5rem;
+    margin-left: 1rem;
+    text-align: justify;
+}
+.p4 {
+    position: relative;
+    bottom: 9.5rem;
+    margin-left: 1rem;
+    text-align: justify;
+}
+.p5 {
+    position: relative;
+    bottom: 9.5rem;
+    margin-left: 1rem;
+    text-align: justify;
+}
+.list {
+    position: relative;
+    bottom: 9rem;
+    line-height: 2;
+    text-align: justify;   
+}
+footer {
+    color: #444444;
+    font-family: sans-serif;
+    font-size: 2rem;
+  }
